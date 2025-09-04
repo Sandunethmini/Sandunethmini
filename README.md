@@ -30,7 +30,7 @@
 ## 🌐 Connect With Me:
 
 <div align="center">
-  <a href="https://linkedin.com/in/sanduni-nethmini">
+  <a href="https://www.linkedin.com/in/sanduninethmini/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=20" alt="LinkedIn"/>
   </a>
   <img src="https://komarev.com/ghpvc/?username=Sandunethmini&label=Profile%20views&color=brightgreen&style=for-the-badge" alt="Profile Views" />
