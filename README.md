@@ -74,13 +74,6 @@
 
 ---
 
-## 🏆 GitHub Achievements:
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sandunethmini&theme=flat&no-frame=true&margin-w=4&row=1" />
-</div>
-
----
 
 ## 📈 Contribution Graph
 <div align="center">
