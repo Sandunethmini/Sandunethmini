@@ -27,7 +27,7 @@
 
 ---
 
-## 🌐 Connect With Me:
+## 🤝 Connect With Me:
 
 <div align="center">
   <a href="https://www.linkedin.com/in/sanduninethmini/">
@@ -120,6 +120,16 @@ const sanduni = {
 ```
 
 ---
+
+
+
+<div align="center">
+  
+
+
+**"Code is like humor. When you have to explain it, it's bad." - Cory House**
+
+</div>
 
 <div align="center">
   <h3>🙏 Thanks for visiting my profile!</h3>
