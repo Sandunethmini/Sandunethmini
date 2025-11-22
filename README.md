@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Animated Typing Header -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=FF6B6B&center=true&vCenter=true&width=700&lines=Welcome+to+Sanduni's+GitHub!;Innovator+%7C+Full+Stack+Developer+%7C+Tech+Explorer;Always+Learning+and+Building+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=FF6B6B&center=true&vCenter=true&width=700&lines=Welcome+to+Sanduni's+GitHub!;Full+Stack+Developer+%7C+Tech+Explorer;Always+Learning+and+Building+%F0%9F%9A%80" alt="Typing SVG" />
   
   <!-- Animated GIF Banner -->
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" alt="coding gif">
