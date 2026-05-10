@@ -61,20 +61,6 @@
 
 ---
 
-## 📊 GitHub Analytics:
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sandunethmini&show_icons=true&count_private=true&hide_border=false&title_color=ff6b6b&icon_color=ff6b6b&text_color=333&bg_color=ffffff" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandunethmini&layout=compact&hide_border=false&title_color=ff6b6b&text_color=333&bg_color=ffffff" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Sandunethmini&theme=default&hide_border=false&ring=ff6b6b&fire=ff6b6b&currStreakLabel=ff6b6b" />
-</div>
-
----
-
-
 ## 📈 Contribution Graph
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sandunethmini&theme=github&hide_border=true" />
